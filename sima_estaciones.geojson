@@ -17,14 +17,14 @@
         ]
       },
       "properties": {
-        "zona": "CENTRO",
-        "municipio": "Monterrey",
-        "clave": "CE",
-        "estacion_param": "CENTRO",
-        "pm10_ugm3": "34.0",
-        "pm25_ugm3": "14.41",
-        "pm10_num": 34.0,
-        "pm25_num": 14.41
+        "Estacion": "CENTRO",
+        "Clave": "CE",
+        "Zona": "CENTRO",
+        "Municipio": "Monterrey",
+        "PM10_ugm3": 33.0,
+        "PM10_Nivel": "Bueno",
+        "PM25_ugm3": 15.49,
+        "PM25_Nivel": "Aceptable"
       }
     },
     {
@@ -37,14 +37,14 @@
         ]
       },
       "properties": {
-        "zona": "SURESTE",
-        "municipio": "Guadalupe",
-        "clave": "SE",
-        "estacion_param": "SURESTE",
-        "pm10_ugm3": "27.667",
-        "pm25_ugm3": "7.483",
-        "pm10_num": 27.667,
-        "pm25_num": 7.483
+        "Estacion": "SURESTE",
+        "Clave": "SE",
+        "Zona": "SURESTE",
+        "Municipio": "Guadalupe",
+        "PM10_ugm3": 35.0,
+        "PM10_Nivel": "Bueno",
+        "PM25_ugm3": 11.47,
+        "PM25_Nivel": "Bueno"
       }
     },
     {
@@ -57,14 +57,14 @@
         ]
       },
       "properties": {
-        "zona": "NORESTE",
-        "municipio": "San Nicolás",
-        "clave": "NE",
-        "estacion_param": "NORESTE",
-        "pm10_ugm3": "23.28",
-        "pm25_ugm3": "16.07",
-        "pm10_num": 23.28,
-        "pm25_num": 16.07
+        "Estacion": "NORESTE",
+        "Clave": "NE",
+        "Zona": "NORESTE",
+        "Municipio": "San Nicolás",
+        "PM10_ugm3": 22.98,
+        "PM10_Nivel": "Bueno",
+        "PM25_ugm3": 13.68,
+        "PM25_Nivel": "Bueno"
       }
     },
     {
@@ -77,14 +77,14 @@
         ]
       },
       "properties": {
-        "zona": "NOROESTE",
-        "municipio": "Monterrey",
-        "clave": "NO",
-        "estacion_param": "NOROESTE",
-        "pm10_ugm3": "43.0",
-        "pm25_ugm3": "20",
-        "pm10_num": 43.0,
-        "pm25_num": 20.0
+        "Estacion": "NOROESTE",
+        "Clave": "NO",
+        "Zona": "NOROESTE",
+        "Municipio": "Monterrey",
+        "PM10_ugm3": 45.0,
+        "PM10_Nivel": "Bueno",
+        "PM25_ugm3": 21.0,
+        "PM25_Nivel": "Aceptable"
       }
     },
     {
@@ -97,14 +97,14 @@
         ]
       },
       "properties": {
-        "zona": "SUROESTE",
-        "municipio": "Santa Catarina",
-        "clave": "SO",
-        "estacion_param": "SUROESTE",
-        "pm10_ugm3": "37.5",
-        "pm25_ugm3": "13.31",
-        "pm10_num": 37.5,
-        "pm25_num": 13.31
+        "Estacion": "SUROESTE",
+        "Clave": "SO",
+        "Zona": "SUROESTE",
+        "Municipio": "Santa Catarina",
+        "PM10_ugm3": 40.5,
+        "PM10_Nivel": "Bueno",
+        "PM25_ugm3": 12.235,
+        "PM25_Nivel": "Bueno"
       }
     },
     {
@@ -117,14 +117,14 @@
         ]
       },
       "properties": {
-        "zona": "NOROESTE 2",
-        "municipio": "García",
-        "clave": "NO2",
-        "estacion_param": "GARCIA",
-        "pm10_ugm3": "46.0",
-        "pm25_ugm3": "13.47",
-        "pm10_num": 46.0,
-        "pm25_num": 13.47
+        "Estacion": "NOROESTE 2",
+        "Clave": "NO2",
+        "Zona": "NOROESTE 2",
+        "Municipio": "García",
+        "PM10_ugm3": 50.0,
+        "PM10_Nivel": "Aceptable",
+        "PM25_ugm3": 13.02,
+        "PM25_Nivel": "Bueno"
       }
     },
     {
@@ -137,14 +137,14 @@
         ]
       },
       "properties": {
-        "zona": "NORTE",
-        "municipio": "Escobedo",
-        "clave": "N",
-        "estacion_param": "NORTE",
-        "pm10_ugm3": "42.0",
-        "pm25_ugm3": "ND",
-        "pm10_num": 42.0,
-        "pm25_num": null
+        "Estacion": "NORTE",
+        "Clave": "N",
+        "Zona": "NORTE",
+        "Municipio": "Escobedo",
+        "PM10_ugm3": 33.0,
+        "PM10_Nivel": "Bueno",
+        "PM25_ugm3": -9999.0,
+        "PM25_Nivel": "Bueno"
       }
     },
     {
@@ -157,14 +157,14 @@
         ]
       },
       "properties": {
-        "zona": "NORESTE 2",
-        "municipio": "Apodaca",
-        "clave": "NE2",
-        "estacion_param": "NORESTE2",
-        "pm10_ugm3": "30.0",
-        "pm25_ugm3": "9",
-        "pm10_num": 30.0,
-        "pm25_num": 9.0
+        "Estacion": "NORESTE 2",
+        "Clave": "NE2",
+        "Zona": "NORESTE 2",
+        "Municipio": "Apodaca",
+        "PM10_ugm3": 35.0,
+        "PM10_Nivel": "Bueno",
+        "PM25_ugm3": 16.0,
+        "PM25_Nivel": "Aceptable"
       }
     },
     {
@@ -177,14 +177,14 @@
         ]
       },
       "properties": {
-        "zona": "SURESTE 2",
-        "municipio": "Juárez",
-        "clave": "SE2",
-        "estacion_param": "SURESTE2",
-        "pm10_ugm3": "33.0",
-        "pm25_ugm3": "8",
-        "pm10_num": 33.0,
-        "pm25_num": 8.0
+        "Estacion": "SURESTE 2",
+        "Clave": "SE2",
+        "Zona": "SURESTE 2",
+        "Municipio": "Juárez",
+        "PM10_ugm3": 34.0,
+        "PM10_Nivel": "Bueno",
+        "PM25_ugm3": 12.0,
+        "PM25_Nivel": "Bueno"
       }
     },
     {
@@ -197,14 +197,14 @@
         ]
       },
       "properties": {
-        "zona": "SUROESTE 2",
-        "municipio": "San Pedro",
-        "clave": "SO2",
-        "estacion_param": "[SAN Pedro]",
-        "pm10_ugm3": "35.0",
-        "pm25_ugm3": "11",
-        "pm10_num": 35.0,
-        "pm25_num": 11.0
+        "Estacion": "SUROESTE 2",
+        "Clave": "SO2",
+        "Zona": "SUROESTE 2",
+        "Municipio": "San Pedro",
+        "PM10_ugm3": 33.0,
+        "PM10_Nivel": "Bueno",
+        "PM25_ugm3": 13.0,
+        "PM25_Nivel": "Bueno"
       }
     },
     {
@@ -217,14 +217,14 @@
         ]
       },
       "properties": {
-        "zona": "SURESTE 3",
-        "municipio": "Cadereyta",
-        "clave": "SE3",
-        "estacion_param": "SURESTE3",
-        "pm10_ugm3": "23.0",
-        "pm25_ugm3": "9",
-        "pm10_num": 23.0,
-        "pm25_num": 9.0
+        "Estacion": "SURESTE 3",
+        "Clave": "SE3",
+        "Zona": "SURESTE 3",
+        "Municipio": "Cadereyta",
+        "PM10_ugm3": 28.0,
+        "PM10_Nivel": "Bueno",
+        "PM25_ugm3": 9.0,
+        "PM25_Nivel": "Bueno"
       }
     },
     {
@@ -237,14 +237,14 @@
         ]
       },
       "properties": {
-        "zona": "NORTE 2",
-        "municipio": "San Nicolás",
-        "clave": "N2",
-        "estacion_param": "NORTE2",
-        "pm10_ugm3": "40.0",
-        "pm25_ugm3": "17",
-        "pm10_num": 40.0,
-        "pm25_num": 17.0
+        "Estacion": "NORTE 2",
+        "Clave": "N2",
+        "Zona": "NORTE 2",
+        "Municipio": "San Nicolás",
+        "PM10_ugm3": 40.0,
+        "PM10_Nivel": "Bueno",
+        "PM25_ugm3": 33.0,
+        "PM25_Nivel": "Aceptable"
       }
     },
     {
@@ -257,14 +257,14 @@
         ]
       },
       "properties": {
-        "zona": "SUR",
-        "municipio": "Monterrey",
-        "clave": "S",
-        "estacion_param": "SUR",
-        "pm10_ugm3": "31.0",
-        "pm25_ugm3": "3",
-        "pm10_num": 31.0,
-        "pm25_num": 3.0
+        "Estacion": "SUR",
+        "Clave": "S",
+        "Zona": "SUR",
+        "Municipio": "Monterrey",
+        "PM10_ugm3": "ND",
+        "PM10_Nivel": "Sin datos",
+        "PM25_ugm3": "ND",
+        "PM25_Nivel": "Sin datos"
       }
     },
     {
@@ -277,14 +277,14 @@
         ]
       },
       "properties": {
-        "zona": "ESTE",
-        "municipio": "Pesquería",
-        "clave": "NE3",
-        "estacion_param": "PESQUERIA",
-        "pm10_ugm3": "15.0",
-        "pm25_ugm3": "10",
-        "pm10_num": 15.0,
-        "pm25_num": 10.0
+        "Estacion": "ESTE",
+        "Clave": "NE3",
+        "Zona": "ESTE",
+        "Municipio": "Pesquería",
+        "PM10_ugm3": "ND",
+        "PM10_Nivel": "Sin datos",
+        "PM25_ugm3": "ND",
+        "PM25_Nivel": "Sin datos"
       }
     },
     {
@@ -297,14 +297,14 @@
         ]
       },
       "properties": {
-        "zona": "NOROESTE 3",
-        "municipio": "García",
-        "clave": "NO3",
-        "estacion_param": "NOROESTE3",
-        "pm10_ugm3": "22.0",
-        "pm25_ugm3": "ND",
-        "pm10_num": 22.0,
-        "pm25_num": null
+        "Estacion": "NOROESTE 3",
+        "Clave": "NO3",
+        "Zona": "NOROESTE 3",
+        "Municipio": "García",
+        "PM10_ugm3": "ND",
+        "PM10_Nivel": "Sin datos",
+        "PM25_ugm3": "ND",
+        "PM25_Nivel": "Sin datos"
       }
     }
   ]
