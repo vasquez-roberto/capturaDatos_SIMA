@@ -1,0 +1,311 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.338553,
+          25.6760139
+        ]
+      },
+      "properties": {
+        "zona": "CENTRO",
+        "municipio": "Monterrey",
+        "clave": "CE",
+        "estacion_param": "CENTRO",
+        "pm10_ugm3": "34.0",
+        "pm25_ugm3": "14.41",
+        "pm10_num": 34.0,
+        "pm25_num": 14.41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.243653,
+          25.6654972
+        ]
+      },
+      "properties": {
+        "zona": "SURESTE",
+        "municipio": "Guadalupe",
+        "clave": "SE",
+        "estacion_param": "SURESTE",
+        "pm10_ugm3": "27.667",
+        "pm25_ugm3": "7.483",
+        "pm10_num": 27.667,
+        "pm25_num": 7.483
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.25317,
+          25.74503
+        ]
+      },
+      "properties": {
+        "zona": "NORESTE",
+        "municipio": "San Nicolás",
+        "clave": "NE",
+        "estacion_param": "NORESTE",
+        "pm10_ugm3": "23.28",
+        "pm25_ugm3": "16.07",
+        "pm10_num": 23.28,
+        "pm25_num": 16.07
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.369578,
+          25.7629306
+        ]
+      },
+      "properties": {
+        "zona": "NOROESTE",
+        "municipio": "Monterrey",
+        "clave": "NO",
+        "estacion_param": "NOROESTE",
+        "pm10_ugm3": "43.0",
+        "pm25_ugm3": "20",
+        "pm10_num": 43.0,
+        "pm25_num": 20.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.467831,
+          25.6794444
+        ]
+      },
+      "properties": {
+        "zona": "SUROESTE",
+        "municipio": "Santa Catarina",
+        "clave": "SO",
+        "estacion_param": "SUROESTE",
+        "pm10_ugm3": "37.5",
+        "pm25_ugm3": "13.31",
+        "pm10_num": 37.5,
+        "pm25_num": 13.31
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.585011,
+          25.8004639
+        ]
+      },
+      "properties": {
+        "zona": "NOROESTE 2",
+        "municipio": "García",
+        "clave": "NO2",
+        "estacion_param": "GARCIA",
+        "pm10_ugm3": "46.0",
+        "pm25_ugm3": "13.47",
+        "pm10_num": 46.0,
+        "pm25_num": 13.47
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.327164,
+          25.7988361
+        ]
+      },
+      "properties": {
+        "zona": "NORTE",
+        "municipio": "Escobedo",
+        "clave": "N",
+        "estacion_param": "NORTE",
+        "pm10_ugm3": "42.0",
+        "pm25_ugm3": "ND",
+        "pm10_num": 42.0,
+        "pm25_num": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1882,
+          25.777475
+        ]
+      },
+      "properties": {
+        "zona": "NORESTE 2",
+        "municipio": "Apodaca",
+        "clave": "NE2",
+        "estacion_param": "NORESTE2",
+        "pm10_ugm3": "30.0",
+        "pm25_ugm3": "9",
+        "pm10_num": 30.0,
+        "pm25_num": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.095616,
+          25.646126
+        ]
+      },
+      "properties": {
+        "zona": "SURESTE 2",
+        "municipio": "Juárez",
+        "clave": "SE2",
+        "estacion_param": "SURESTE2",
+        "pm10_ugm3": "33.0",
+        "pm25_ugm3": "8",
+        "pm10_num": 33.0,
+        "pm25_num": 8.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.412853,
+          25.665275
+        ]
+      },
+      "properties": {
+        "zona": "SUROESTE 2",
+        "municipio": "San Pedro",
+        "clave": "SO2",
+        "estacion_param": "[SAN Pedro]",
+        "pm10_ugm3": "35.0",
+        "pm25_ugm3": "11",
+        "pm10_num": 35.0,
+        "pm25_num": 11.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9953028,
+          25.6008639
+        ]
+      },
+      "properties": {
+        "zona": "SURESTE 3",
+        "municipio": "Cadereyta",
+        "clave": "SE3",
+        "estacion_param": "SURESTE3",
+        "pm10_ugm3": "23.0",
+        "pm25_ugm3": "9",
+        "pm10_num": 23.0,
+        "pm25_num": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.310019,
+          25.7297587
+        ]
+      },
+      "properties": {
+        "zona": "NORTE 2",
+        "municipio": "San Nicolás",
+        "clave": "N2",
+        "estacion_param": "NORTE2",
+        "pm10_ugm3": "40.0",
+        "pm25_ugm3": "17",
+        "pm10_num": 40.0,
+        "pm25_num": 17.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.273936,
+          25.6169806
+        ]
+      },
+      "properties": {
+        "zona": "SUR",
+        "municipio": "Monterrey",
+        "clave": "S",
+        "estacion_param": "SUR",
+        "pm10_ugm3": "31.0",
+        "pm25_ugm3": "3",
+        "pm10_num": 31.0,
+        "pm25_num": 3.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.078411,
+          25.7905833
+        ]
+      },
+      "properties": {
+        "zona": "ESTE",
+        "municipio": "Pesquería",
+        "clave": "NE3",
+        "estacion_param": "PESQUERIA",
+        "pm10_ugm3": "15.0",
+        "pm25_ugm3": "10",
+        "pm10_num": 15.0,
+        "pm25_num": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.46361112,
+          25.785
+        ]
+      },
+      "properties": {
+        "zona": "NOROESTE 3",
+        "municipio": "García",
+        "clave": "NO3",
+        "estacion_param": "NOROESTE3",
+        "pm10_ugm3": "22.0",
+        "pm25_ugm3": "ND",
+        "pm10_num": 22.0,
+        "pm25_num": null
+      }
+    }
+  ]
+}
