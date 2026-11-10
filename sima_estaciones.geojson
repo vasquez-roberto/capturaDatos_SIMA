@@ -21,9 +21,9 @@
         "Clave": "CE",
         "Zona": "CENTRO",
         "Municipio": "Monterrey",
-        "PM10_ugm3": 58.0,
+        "PM10_ugm3": 48.0,
         "PM10_Nivel": "Aceptable",
-        "PM25_ugm3": 18.16,
+        "PM25_ugm3": 23.89,
         "PM25_Nivel": "Aceptable"
       }
     },
@@ -41,10 +41,10 @@
         "Clave": "SE",
         "Zona": "SURESTE",
         "Municipio": "Guadalupe",
-        "PM10_ugm3": 53.222,
+        "PM10_ugm3": 55.539,
         "PM10_Nivel": "Aceptable",
-        "PM25_ugm3": 18.647,
-        "PM25_Nivel": "Aceptable"
+        "PM25_ugm3": 12.638,
+        "PM25_Nivel": "Bueno"
       }
     },
     {
@@ -61,9 +61,9 @@
         "Clave": "NE",
         "Zona": "NORESTE",
         "Municipio": "San Nicolás",
-        "PM10_ugm3": 18.9,
+        "PM10_ugm3": 14.26,
         "PM10_Nivel": "Bueno",
-        "PM25_ugm3": 5.72,
+        "PM25_ugm3": 5.88,
         "PM25_Nivel": "Bueno"
       }
     },
@@ -81,9 +81,9 @@
         "Clave": "NO",
         "Zona": "NOROESTE",
         "Municipio": "Monterrey",
-        "PM10_ugm3": 50.0,
-        "PM10_Nivel": "Aceptable",
-        "PM25_ugm3": 13.0,
+        "PM10_ugm3": 45.0,
+        "PM10_Nivel": "Bueno",
+        "PM25_ugm3": 14.0,
         "PM25_Nivel": "Bueno"
       }
     },
@@ -101,9 +101,9 @@
         "Clave": "SO",
         "Zona": "SUROESTE",
         "Municipio": "Santa Catarina",
-        "PM10_ugm3": 42.0,
-        "PM10_Nivel": "Bueno",
-        "PM25_ugm3": 19.0,
+        "PM10_ugm3": 61.0,
+        "PM10_Nivel": "Mala",
+        "PM25_ugm3": 33.0,
         "PM25_Nivel": "Aceptable"
       }
     },
@@ -121,9 +121,9 @@
         "Clave": "NO2",
         "Zona": "NOROESTE 2",
         "Municipio": "García",
-        "PM10_ugm3": 8.65,
+        "PM10_ugm3": 20.63,
         "PM10_Nivel": "Bueno",
-        "PM25_ugm3": 3.74,
+        "PM25_ugm3": 9.32,
         "PM25_Nivel": "Bueno"
       }
     },
@@ -141,10 +141,10 @@
         "Clave": "N",
         "Zona": "NORTE",
         "Municipio": "Escobedo",
-        "PM10_ugm3": 38.0,
+        "PM10_ugm3": 34.0,
         "PM10_Nivel": "Bueno",
-        "PM25_ugm3": 11.0,
-        "PM25_Nivel": "Bueno"
+        "PM25_ugm3": "ND",
+        "PM25_Nivel": "Sin datos"
       }
     },
     {
@@ -161,9 +161,9 @@
         "Clave": "NE2",
         "Zona": "NORESTE 2",
         "Municipio": "Apodaca",
-        "PM10_ugm3": 19.0,
+        "PM10_ugm3": 16.0,
         "PM10_Nivel": "Bueno",
-        "PM25_ugm3": 5.0,
+        "PM25_ugm3": 4.0,
         "PM25_Nivel": "Bueno"
       }
     },
@@ -181,9 +181,9 @@
         "Clave": "SE2",
         "Zona": "SURESTE 2",
         "Municipio": "Juárez",
-        "PM10_ugm3": 27.0,
+        "PM10_ugm3": 32.0,
         "PM10_Nivel": "Bueno",
-        "PM25_ugm3": 8.0,
+        "PM25_ugm3": 6.0,
         "PM25_Nivel": "Bueno"
       }
     },
@@ -201,9 +201,9 @@
         "Clave": "SO2",
         "Zona": "SUROESTE 2",
         "Municipio": "San Pedro",
-        "PM10_ugm3": 52.0,
+        "PM10_ugm3": 46.0,
         "PM10_Nivel": "Aceptable",
-        "PM25_ugm3": 26.0,
+        "PM25_ugm3": 16.0,
         "PM25_Nivel": "Aceptable"
       }
     },
@@ -221,9 +221,9 @@
         "Clave": "SE3",
         "Zona": "SURESTE 3",
         "Municipio": "Cadereyta",
-        "PM10_ugm3": 19.0,
+        "PM10_ugm3": 16.0,
         "PM10_Nivel": "Bueno",
-        "PM25_ugm3": 3.0,
+        "PM25_ugm3": 5.0,
         "PM25_Nivel": "Bueno"
       }
     },
@@ -241,10 +241,10 @@
         "Clave": "N2",
         "Zona": "NORTE 2",
         "Municipio": "San Nicolás",
-        "PM10_ugm3": 94.0,
-        "PM10_Nivel": "Mala",
-        "PM25_ugm3": 12.0,
-        "PM25_Nivel": "Bueno"
+        "PM10_ugm3": 47.0,
+        "PM10_Nivel": "Aceptable",
+        "PM25_ugm3": 44.0,
+        "PM25_Nivel": "Mala"
       }
     },
     {
@@ -261,9 +261,9 @@
         "Clave": "S",
         "Zona": "SUR",
         "Municipio": "Monterrey",
-        "PM10_ugm3": 54.889,
+        "PM10_ugm3": 55.872,
         "PM10_Nivel": "Aceptable",
-        "PM25_ugm3": 17.053,
+        "PM25_ugm3": 15.588,
         "PM25_Nivel": "Aceptable"
       }
     },
@@ -281,10 +281,10 @@
         "Clave": "NE3",
         "Zona": "ESTE",
         "Municipio": "Pesquería",
-        "PM10_ugm3": 23.0,
+        "PM10_ugm3": 21.0,
         "PM10_Nivel": "Bueno",
-        "PM25_ugm3": 5.0,
-        "PM25_Nivel": "Bueno"
+        "PM25_ugm3": "ND",
+        "PM25_Nivel": "Sin datos"
       }
     },
     {
@@ -301,9 +301,9 @@
         "Clave": "NO3",
         "Zona": "NOROESTE 3",
         "Municipio": "García",
-        "PM10_ugm3": 44.0,
+        "PM10_ugm3": 39.5,
         "PM10_Nivel": "Bueno",
-        "PM25_ugm3": 12.0,
+        "PM25_ugm3": 11.0,
         "PM25_Nivel": "Bueno"
       }
     }
