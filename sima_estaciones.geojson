@@ -21,10 +21,10 @@
         "Clave": "CE",
         "Zona": "CENTRO",
         "Municipio": "Monterrey",
-        "PM10_ugm3": 52.0,
-        "PM10_Nivel": "Aceptable",
-        "PM25_ugm3": 17.37,
-        "PM25_Nivel": "Aceptable"
+        "PM10_ugm3": 27.0,
+        "PM10_Nivel": "Bueno",
+        "PM25_ugm3": 10.56,
+        "PM25_Nivel": "Bueno"
       }
     },
     {
@@ -41,10 +41,10 @@
         "Clave": "SE",
         "Zona": "SURESTE",
         "Municipio": "Guadalupe",
-        "PM10_ugm3": 88.245,
-        "PM10_Nivel": "Mala",
-        "PM25_ugm3": 22.008,
-        "PM25_Nivel": "Aceptable"
+        "PM10_ugm3": 19.497,
+        "PM10_Nivel": "Bueno",
+        "PM25_ugm3": 8.318,
+        "PM25_Nivel": "Bueno"
       }
     },
     {
@@ -61,10 +61,10 @@
         "Clave": "NE",
         "Zona": "NORESTE",
         "Municipio": "San Nicolás",
-        "PM10_ugm3": 53.01,
-        "PM10_Nivel": "Aceptable",
-        "PM25_ugm3": 23.2,
-        "PM25_Nivel": "Aceptable"
+        "PM10_ugm3": 19.56,
+        "PM10_Nivel": "Bueno",
+        "PM25_ugm3": 7.38,
+        "PM25_Nivel": "Bueno"
       }
     },
     {
@@ -81,10 +81,10 @@
         "Clave": "NO",
         "Zona": "NOROESTE",
         "Municipio": "Monterrey",
-        "PM10_ugm3": 137.0,
-        "PM10_Nivel": "Muy mala",
-        "PM25_ugm3": 25.0,
-        "PM25_Nivel": "Aceptable"
+        "PM10_ugm3": 41.0,
+        "PM10_Nivel": "Bueno",
+        "PM25_ugm3": 13.0,
+        "PM25_Nivel": "Bueno"
       }
     },
     {
@@ -101,10 +101,10 @@
         "Clave": "SO",
         "Zona": "SUROESTE",
         "Municipio": "Santa Catarina",
-        "PM10_ugm3": 68.0,
-        "PM10_Nivel": "Mala",
-        "PM25_ugm3": 18.0,
-        "PM25_Nivel": "Aceptable"
+        "PM10_ugm3": 39.0,
+        "PM10_Nivel": "Bueno",
+        "PM25_ugm3": 13.0,
+        "PM25_Nivel": "Bueno"
       }
     },
     {
@@ -121,9 +121,9 @@
         "Clave": "NO2",
         "Zona": "NOROESTE 2",
         "Municipio": "García",
-        "PM10_ugm3": 33.43,
+        "PM10_ugm3": 21.85,
         "PM10_Nivel": "Bueno",
-        "PM25_ugm3": 11.27,
+        "PM25_ugm3": 9.08,
         "PM25_Nivel": "Bueno"
       }
     },
@@ -141,10 +141,10 @@
         "Clave": "N",
         "Zona": "NORTE",
         "Municipio": "Escobedo",
-        "PM10_ugm3": 128.0,
-        "PM10_Nivel": "Mala",
-        "PM25_ugm3": 30.25,
-        "PM25_Nivel": "Aceptable"
+        "PM10_ugm3": 34.0,
+        "PM10_Nivel": "Bueno",
+        "PM25_ugm3": 12.09,
+        "PM25_Nivel": "Bueno"
       }
     },
     {
@@ -161,10 +161,10 @@
         "Clave": "NE2",
         "Zona": "NORESTE 2",
         "Municipio": "Apodaca",
-        "PM10_ugm3": 79.0,
-        "PM10_Nivel": "Mala",
-        "PM25_ugm3": 39.0,
-        "PM25_Nivel": "Mala"
+        "PM10_ugm3": 46.0,
+        "PM10_Nivel": "Aceptable",
+        "PM25_ugm3": 22.0,
+        "PM25_Nivel": "Aceptable"
       }
     },
     {
@@ -181,10 +181,10 @@
         "Clave": "SE2",
         "Zona": "SURESTE 2",
         "Municipio": "Juárez",
-        "PM10_ugm3": 127.0,
-        "PM10_Nivel": "Mala",
-        "PM25_ugm3": 19.0,
-        "PM25_Nivel": "Aceptable"
+        "PM10_ugm3": 53.0,
+        "PM10_Nivel": "Aceptable",
+        "PM25_ugm3": 6.0,
+        "PM25_Nivel": "Bueno"
       }
     },
     {
@@ -201,9 +201,9 @@
         "Clave": "SO2",
         "Zona": "SUROESTE 2",
         "Municipio": "San Pedro",
-        "PM10_ugm3": 28.0,
+        "PM10_ugm3": 18.0,
         "PM10_Nivel": "Bueno",
-        "PM25_ugm3": 12.0,
+        "PM25_ugm3": 7.0,
         "PM25_Nivel": "Bueno"
       }
     },
@@ -221,10 +221,10 @@
         "Clave": "SE3",
         "Zona": "SURESTE 3",
         "Municipio": "Cadereyta",
-        "PM10_ugm3": 79.0,
-        "PM10_Nivel": "Mala",
-        "PM25_ugm3": 22.0,
-        "PM25_Nivel": "Aceptable"
+        "PM10_ugm3": 34.0,
+        "PM10_Nivel": "Bueno",
+        "PM25_ugm3": 12.0,
+        "PM25_Nivel": "Bueno"
       }
     },
     {
@@ -241,10 +241,10 @@
         "Clave": "N2",
         "Zona": "NORTE 2",
         "Municipio": "San Nicolás",
-        "PM10_ugm3": 105.0,
-        "PM10_Nivel": "Mala",
-        "PM25_ugm3": 32.0,
-        "PM25_Nivel": "Aceptable"
+        "PM10_ugm3": "ND",
+        "PM10_Nivel": "Sin datos",
+        "PM25_ugm3": 4.0,
+        "PM25_Nivel": "Bueno"
       }
     },
     {
@@ -261,10 +261,10 @@
         "Clave": "S",
         "Zona": "SUR",
         "Municipio": "Monterrey",
-        "PM10_ugm3": 87.578,
-        "PM10_Nivel": "Mala",
-        "PM25_ugm3": 21.015,
-        "PM25_Nivel": "Aceptable"
+        "PM10_ugm3": 29.746,
+        "PM10_Nivel": "Bueno",
+        "PM25_ugm3": 8.531,
+        "PM25_Nivel": "Bueno"
       }
     },
     {
@@ -283,7 +283,7 @@
         "Municipio": "Pesquería",
         "PM10_ugm3": "ND",
         "PM10_Nivel": "Sin datos",
-        "PM25_ugm3": 13.0,
+        "PM25_ugm3": 6.0,
         "PM25_Nivel": "Bueno"
       }
     },
@@ -301,7 +301,7 @@
         "Clave": "NO3",
         "Zona": "NOROESTE 3",
         "Municipio": "García",
-        "PM10_ugm3": 92.0,
+        "PM10_ugm3": 64.0,
         "PM10_Nivel": "Mala",
         "PM25_ugm3": 20.0,
         "PM25_Nivel": "Aceptable"
